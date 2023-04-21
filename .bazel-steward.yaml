@@ -1,0 +1,4 @@
+pull-requests:
+  - limits:
+      max-open: 10
+      max-updates-per-run: 5
